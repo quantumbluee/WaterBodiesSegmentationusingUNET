@@ -1,6 +1,6 @@
 # WaterBodiesSegmentationusingUNET
 This repository contains code for a U-Net model implemented in TensorFlow/Keras for segmenting water bodies in satellite images. The project involves:
-
+Link to Dataset: https://www.taskade.com/d/dVb2pwyXC8CSmVUQ#node-6f072b8b-3d63-4ca8-98f6-9880d5654a25
 ## Overview:
 * Data Loading: Loaded satellite images and corresponding masks for water bodies.
 * Exploratory Data Analysis: Identified rotation-related issues, discrepancies in ground truths, and potential preprocessing steps.
