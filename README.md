@@ -16,4 +16,4 @@ This repository contains code for a U-Net model implemented in TensorFlow/Keras 
 * Usage Guide: Check code comments for step-by-step usage instructions.
 * Model Testing: Code includes a testing section to visualize model predictions.
 ## Results:
-Model Performance: Achieved mean Intersection over Union (mIoU) of XX% on the test dataset.
+Model Performance: Achieved mean Intersection over Union (mIoU) of 77% on the test dataset.
